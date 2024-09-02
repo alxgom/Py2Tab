@@ -4,7 +4,7 @@
 
 The code generates a file like :
 
-
+"
 <color-palette name="plasma" type="ordered-diverging">
   <color>#0d0887</color>
   <color>#3e049c</color>
@@ -19,7 +19,7 @@ The code generates a file like :
   <color>#fcd225</color>
   <color>#f0f921</color>
 </color-palette>
-
+"
 
 
 The text should be copied inside the body of "Preferences.tps" in "My Tableau Repository", to add the new custom palette to Tableau.
