@@ -1,8 +1,8 @@
 # Py2Tab
- Choose a matplotlib colormap and it generates a text file to make a custom tableau palette. 
+Choose a matplotlib colormap and it generates a text file to make a custom tableau palette. 
 
 
-The code generates a file like :
+The code generates .txt file like :
 
  ```
 <color-palette name="plasma" type="ordered-diverging">
